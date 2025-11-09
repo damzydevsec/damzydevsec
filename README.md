@@ -1,14 +1,25 @@
-# Hi, I'm Collins C. 👋
+# Collins C. (@damzydevsec)
 
-I am a Software Engineer specializing in DevSecOps. I build secure, automated, and resilient systems.
+Software Engineer specializing in DevSecOps. I build secure, high-performance, and resilient applications by integrating security into the entire development lifecycle.
 
-This GitHub is my public foundry, where I document my work and build my "Portfolio of Proof."
+> 95% of security breaches are not caused by nation-state hackers, but by common, preventable mistakes made during the development cycle. My mission is to find and fix those mistakes before they reach production.
 
+---
 
+### 🛠️ Core Competencies
+
+My technical expertise is focused on building and securing modern, cloud-native applications.
+
+* **Backend:** Go, Python (Django), PHP (Laravel), Node.js
+* **Frontend:** React, Vue.js
+* **DevSecOps & Cloud:** Docker, Kubernetes, Terraform, GitHub Actions, CI/CD
+* **Security:** SAST (Snyk, CodeQL), Container Scanning (Trivy), Vulnerability Assessment, Nmap
+
+---
 
 ### 🛡️ My Portfolio of Proof
 
-This is my active work. These projects demonstrate my ability to build, secure, and automate.
+This is my active foundry. It is the evidence of my work. As these projects are completed, they will be pinned to my profile.
 
 1.  **[Project 1: The Secure-by-Design API]** *(In Progress)*
     * A REST API built in [Language] that is secure by default. It demonstrates input validation, rate limiting, and secure authentication.
@@ -17,17 +28,9 @@ This is my active work. These projects demonstrate my ability to build, secure, 
 3.  **[Project 3: The "Break and Fix"]** *(Planning Phase)*
     * A "live-fire" fork of a deliberately vulnerable application. This repo contains my penetration test report and the pull request that patches the security flaws.
 
-
-
-### 🛠️ My Core Technology Stack
-
-* **Backend:** [Your culled list, e.g., Go, Python (Django), PHP (Laravel)]
-* **DevOps & Cloud:** [Your culled list, e.g., Docker, Kubernetes, Terraform, GitHub Actions]
-* **Security:** [The tools you are mastering, e.g., Nmap, Trivy, Snyk, CodeQL]
-
-
+---
 
 ### 🔗 Connect With Me
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Damzyfortress?t=5UfE5booxCGauwQt5fWVpA&s=09)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collins-c-0552b52a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damzydevsec/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/damzydevsec)
