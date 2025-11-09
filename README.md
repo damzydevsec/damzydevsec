@@ -1,54 +1,33 @@
-# DamzyFortress
-### Engineering Resilient Systems. Securing the Digital Frontier.
+# Hi, I'm Collins C. 👋
 
-Based in Lagos, Nigeria, we operate on a single, non-negotiable principle: security is not a feature, it is the foundation. We architect and build high-performance software systems that are designed from the ground up to be robust, scalable, and hostile to modern threats.
+I am a Software Engineer specializing in DevSecOps. I build secure, automated, and resilient systems.
 
----
-
-## Core Mastery
+This GitHub is my public foundry, where I document my work and build my "Portfolio of Proof."
 
 
-* **Backend Development:** Building and scaling secure, RESTful APIs using **Node.js** and **PHP/Laravel**.
-* **Frontend Development:** Crafting responsive and dynamic user interfaces with **React**.
-* **General Purpose Scripting:** Automating tasks and developing applications with **Python**.
-* **Security Principles:** Practical application of OWASP Top 10, secure coding practices, and data validation.
 
----
+### 🛡️ My Portfolio of Proof
 
-## The Fortress Stack: Mission-Critical Development
+This is my active work. These projects demonstrate my ability to build, secure, and automate.
 
-*Our active focus is on mastering the complete lifecycle of modern, cloud-native applications.*
+1.  **[Project 1: The Secure-by-Design API]** *(In Progress)*
+    * A REST API built in [Language] that is secure by default. It demonstrates input validation, rate limiting, and secure authentication.
+2.  **[Project 2: The DevSecOps Pipeline]** *(Planning Phase)*
+    * A full CI/CD pipeline using GitHub Actions that automatically runs SAST (Snyk/CodeQL) and container (Trivy) scans, failing the build on critical vulnerabilities.
+3.  **[Project 3: The "Break and Fix"]** *(Planning Phase)*
+    * A "live-fire" fork of a deliberately vulnerable application. This repo contains my penetration test report and the pull request that patches the security flaws.
 
-* **Go (Golang):** The language for high-performance, concurrent, and secure systems.
-* **Docker:** The standard for containerizing and deploying applications with consistency.
-* **Kubernetes (K8s):** The operating system for the cloud, managing containerized applications at scale.
-* **Terraform:** The blueprint for engineering secure and repeatable cloud infrastructure as code.
 
----
 
-## Technology Stack & Tools
+### 🛠️ My Core Technology Stack
 
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+* **Backend:** [Your culled list, e.g., Go, Python (Django), PHP (Laravel)]
+* **DevOps & Cloud:** [Your culled list, e.g., Docker, Kubernetes, Terraform, GitHub Actions]
+* **Security:** [The tools you are mastering, e.g., Nmap, Trivy, Snyk, CodeQL]
 
----
 
-## Connect
+
+### 🔗 Connect With Me
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Damzyfortress?t=5UfE5booxCGauwQt5fWVpA&s=09)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collins-c-0552b52a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
