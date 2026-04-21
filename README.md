@@ -17,16 +17,22 @@ My technical expertise is focused on building and securing modern, cloud-native 
 
 ---
 
-### 🛡️ My Portfolio of Proof
+## 🛡️ My Portfolio of Proof
 
-This is my active foundry. It is the evidence of my work. As these projects are completed, they will be pinned to my profile.
+This is my active foundry. I don't build generic to-do apps; I build secure infrastructure and microservices that solve severe enterprise bottlenecks. 
 
-1.  **[Project 1: The Secure-by-Design API]** *(In Progress)*
-    * A REST API built in [Language] that is secure by default. It demonstrates input validation, rate limiting, and secure authentication.
-2.  **[Project 2: The DevSecOps Pipeline]** *(Planning Phase)*
-    * A full CI/CD pipeline using GitHub Actions that automatically runs SAST (Snyk/CodeQL) and container (Trivy) scans, failing the build on critical vulnerabilities.
-3.  **[Project 3: The "Break and Fix"]** *(Planning Phase)*
-    * A "live-fire" fork of a deliberately vulnerable application. This repo contains my penetration test report and the pull request that patches the security flaws.
+1. **[DAMZY Idempotent Webhook Gateway]** *(Active Development)*
+   * **Problem Solved:** Payment gateways (Paystack/Stripe) often fire duplicate webhooks, leading to double-crediting user wallets. 
+   * **Architecture:** A high-performance microservice using Redis idempotency locks and cryptographic HMAC verification to guarantee exactly-once processing. 
+   * **Stack:** [Node.js / Go], Redis, Docker.
+
+2. **[Dynamic API Threat Blocker]** *(Planning Phase)*
+   * **Problem Solved:** APIs are constantly exposed to automated brute-force and scraping attacks. 
+   * **Architecture:** Intelligent middleware that tracks malicious payloads (SQLi, XSS) and automatically blacklists attacking IPs using Redis, mitigating OWASP vulnerabilities before they hit the main controller.
+
+3. **[Zero-Downtime CI/CD Pipeline]** *(Planning Phase)*
+   * **Problem Solved:** Manual deployments cause server downtime and break active user sessions.
+   * **Architecture:** A plug-and-play DevOps template using GitHub Actions and Docker for Blue/Green deployments, ensuring true zero-downtime releases.
 
 ---
 
