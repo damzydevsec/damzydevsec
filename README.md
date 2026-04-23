@@ -21,12 +21,12 @@ My technical expertise is focused on building and securing modern, cloud-native 
 
 This is my active foundry. I don't build generic to-do apps; I build secure infrastructure and microservices that solve severe enterprise bottlenecks. 
 
-1. **[DAMZY Idempotent Webhook Gateway]** *(Active Development)*
+1. **[DAMZY Idempotent Webhook Gateway](https://github.com/damzydevsec/damzydevsec-DAMZY-Idempotent-Webhook-Gateway)**  *(Production Ready)*
    * **Problem Solved:** Payment gateways (Paystack/Stripe) often fire duplicate webhooks, leading to double-crediting user wallets. 
    * **Architecture:** A high-performance microservice using Redis idempotency locks and cryptographic HMAC verification to guarantee exactly-once processing. 
-   * **Stack:** [Node.js / Go], Redis, Docker.
+   * **Stack:** [Go], Redis, Docker.
 
-2. **[Dynamic API Threat Blocker]** *(Planning Phase)*
+2. **[Dynamic API Threat Blocker]** *(Active Development)*
    * **Problem Solved:** APIs are constantly exposed to automated brute-force and scraping attacks. 
    * **Architecture:** Intelligent middleware that tracks malicious payloads (SQLi, XSS) and automatically blacklists attacking IPs using Redis, mitigating OWASP vulnerabilities before they hit the main controller.
 
